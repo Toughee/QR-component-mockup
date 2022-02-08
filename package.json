@@ -1,0 +1,25 @@
+{
+  "name": "qr-component",
+  "version": "1.0.0",
+  "description": "QR code component mockup made for Frontendmentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "codecleaner": "npx prettier --write '**/*.css'&&npx prettier --write '**/*.html'",
+    "fullpr": "git add .&&git commit&&git push&&git merge"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toughee/QR-component-mockup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Toughee/QR-component-mockup/issues"
+  },
+  "homepage": "https://github.com/Toughee/QR-component-mockup#readme"
+}
