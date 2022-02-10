@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-N/A
+Repository is for a challenge inside frontendmentor's website. Challenge is titled "QR code component"
 ### Screenshots
 
 ![Desktop Screencap](./images/Desktop_screencap.png)
@@ -26,11 +26,12 @@ N/A
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Toughee/QR-component-mockup)
-- Live Site URL: [Live Site UR](https://toughee.github.io/QR-component-mockup/)
+- Live Site URL: [Live Site URL](https://toughee.github.io/QR-component-mockup/)
 
 ## My process
 
-- Divide each component inside project into small pieces
+- Read entire documentation for project
+- Divide each component inside project into small tasks to be completed
 - Work on one thing at a time
 - Then worked on component shape to fit with frontendmentor design
 - Followed style guides inside project for fonts and page color
@@ -40,7 +41,8 @@ N/A
 - CSS custom properties
 ### What I learned
 
-N/A
+- I learned about using vanilla front end elements to complete a given task or UI mockup
+
 ### Continued development
 
 N/A
